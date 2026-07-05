@@ -12,6 +12,8 @@
 
 > `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
 
+---
+
 ```text
 [ MODE ]        MASTER BOT
 [ CONTROL ]     START . STOP . RESTART . REGISTER
