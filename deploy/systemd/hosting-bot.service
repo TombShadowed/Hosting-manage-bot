@@ -1,0 +1,16 @@
+[Unit]
+Description=Hosting-Bot service
+After=network.target
+
+[Service]
+Type=simple
+User=youruser
+WorkingDirectory=/path/to/Hosting-Bot-main
+Environment=TELEGRAM_TOKEN=your_token_here
+Environment=TELEGRAM_API_ID=your_api_id
+Environment=TELEGRAM_API_HASH=your_api_hash
+ExecStart=/usr/bin/python3 /path/to/Hosting-Bot-main/main.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
