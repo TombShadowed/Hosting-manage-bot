@@ -26,7 +26,7 @@
 
 </div>
 
-## <code>[ 𝗙𝗘𝗔𝗧𝗨𝗥𝗘 𝗚𝗥𝗜𝗗 ]</code>
+## <code>[ ғᴇᴀᴛᴜʀᴇ ɢʀɪɴᴅ ]</code>
 
 | SYMBOL | MODULE | DETAIL |
 | :---: | --- | --- |
@@ -37,7 +37,7 @@
 | `[/]` | `OBSERVE` | Health checks, system stats, runtime logs, basic CI |
 | `[>]` | `DEPLOY` | Heroku worker, Docker/Koyeb build, VPS systemd service |
 
-## <code>[ 𝗤𝗨𝗜𝗖𝗞 𝗦𝗧𝗔𝗥𝗧 ]</code>
+## <code>[ ǫᴜɪᴄᴋ sᴛᴀʀᴛ ]</code>
 
 ### <code>01 . INSTALL DEPENDENCIES</code>
 
@@ -72,7 +72,7 @@ $env:OWNER_ID="123456789"
 python main.py
 ```
 
-## <code>[ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗠𝗔𝗣 ]</code>
+## <code>[ ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴘ ]</code>
 
 ```text
 HOSTING-BOT
@@ -98,7 +98,7 @@ HOSTING-BOT
 `-- tests/
 ```
 
-## <code>[ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗗𝗘𝗖𝗞 ]</code>
+## <code>[ ᴄᴏᴍᴍᴀɴᴅ ᴅᴇᴄᴋ ]</code>
 
 | COMMAND | ACCESS | PURPOSE |
 | --- | :---: | --- |
@@ -115,7 +115,7 @@ HOSTING-BOT
 | `/add_premium <id> [plan] [duration]` | `OWNER` | Grant premium access |
 | `/rem_premium <id>` | `OWNER` | Revoke premium access |
 
-## <code>[ 𝗖𝗢𝗡𝗙𝗜𝗚𝗦 𝗡𝗢𝗧𝗘𝗦 ]</code>
+## <code>[ ᴄᴏɴғɪɢs ɴᴏᴛᴇs ]</code>
 
 | KEY | REQUIRED | NOTE |
 | --- | :---: | --- |
@@ -134,7 +134,7 @@ ELSE                 -> USE LOCAL SQLITE
 
 Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
 
-## <code>[ 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 ]</code>
+## <code>[ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ]</code>
 
 ### <code>HEROKU WORKER</code>
 
@@ -168,7 +168,7 @@ sudo systemctl enable --now hosting-bot
 sudo journalctl -u hosting-bot -f
 ```
 
-## <code>[ 𝗕𝗥𝗔𝗡𝗗𝗜𝗡𝗚 ]</code>
+## <code>[ ʙʀᴀɴᴅɪɴɢ ]</code>
 
 Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
@@ -178,7 +178,7 @@ Displayed links and text can be customized in `.env` and `cmds/start.py`.
 ```
 
 ----
-## <code>[ CREDITS ]</code>
+## <code>[ ᴄʀᴇᴅɪᴛs ]</code>
 
 <p align="center">
   <img src="https://i.ibb.co/rK3Fwptg/photo-2026-07-05-09-09-48-7658968609179303968.jpg">
@@ -188,7 +188,7 @@ Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
 Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://telegram.me/ShadowedTomb)
 
-## <code>[ 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 ]</code>
+## <code>[ ᴄᴏᴘʏʀɪɢʜᴛ ]</code>
 
 <div align="center">
 
