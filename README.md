@@ -220,7 +220,7 @@ Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/Shado
 
 <div align="center">
 
-<code>COPYRIGHT (C) 2026 YOUR-GITHUB-USERNAME . ALL RIGHTS RESERVED</code>
+<code>COPYRIGHT (C) 2026 TombShadowed . ALL RIGHTS RESERVED</code>
 
 <br /><br />
 
