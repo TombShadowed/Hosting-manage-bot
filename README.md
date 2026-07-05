@@ -10,7 +10,7 @@
 
 ## <code>| OVERVIEW |</code>
 
-`HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
+> `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
 
 ```text
 [ MODE ]        MASTER BOT
@@ -22,8 +22,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,13,14,24" alt="section divider" />
-
+---
 </div>
 
 ## <code>| FEATURE GRID |</code>
