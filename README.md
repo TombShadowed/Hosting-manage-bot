@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ʜᴏsᴛɪɴɢ ᴍᴀɴᴀɢᴇʀ 」──
+    ──「 𝗛𝗢𝗦𝗧𝗜𝗡𝗚 𝗠𝗔𝗡𝗔𝗚𝗘𝗥 」──
 </h2>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ----
 
-## <code>[ 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪 ]</code>
+## <code>[ ᴏᴠᴇʀᴠɪᴇᴡ ]</code>
 
 `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
 
