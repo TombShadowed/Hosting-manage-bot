@@ -246,6 +246,6 @@ Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/Shado
 
 <br />
 
-<code>[ END OF TRANSMISSION ]</code>
+<code>[ END ]</code>
 
 </div>
