@@ -115,8 +115,8 @@ HOSTING-BOT
 | `/add_premium <id> [plan] [duration]` | `OWNER` | Grant premium access |
 | `/rem_premium <id>` | `OWNER` | Revoke premium access |
 ---
-## <code>[ ᴄᴏɴғɪɢs ɴᴏᴛᴇs ]</code>
-
+## <code>| CONFIGS NOTE |</code>
+---
 | KEY | REQUIRED | NOTE |
 | --- | :---: | --- |
 | `TELEGRAM_TOKEN` | `YES` | Telegram bot token from BotFather |
@@ -133,9 +133,9 @@ ELSE                 -> USE LOCAL SQLITE
 ```
 
 Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
-
-## <code>[ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ]</code>
-
+---
+## <code>| DEPLOYMENT |</code>
+---
 ### <code>HEROKU WORKER</code>
 
 ```text
@@ -167,16 +167,15 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now hosting-bot
 sudo journalctl -u hosting-bot -f
 ```
-
-## <code>[ ʙʀᴀɴᴅɪɴɢ ]</code>
-
+---
+## <code>| BRANDING |</code>
+---
 Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
 ```text
 [ EDIT .ENV ]          OWNER IDS . CHANNEL LINKS . RUNTIME VALUES
 [ EDIT cmds/start.py ] WELCOME TEXT . BUTTONS . START SCREEN
 ```
-
 ----
 ## <code>[ ᴄʀᴇᴅɪᴛs ]</code>
 
