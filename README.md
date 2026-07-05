@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/8gYGz8pF/photo-2026-07-05-08-45-19-7658962304167313424.jpg">
+  <img src="https://i.ibb.co/4wTRN43F/photo-2026-07-05-09-03-56-7658967178955194408.jpg">
 </p>
 
 ----
