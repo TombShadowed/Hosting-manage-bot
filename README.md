@@ -8,7 +8,7 @@
 
 ----
 
-## <code>[ OVERVIEW ]</code>
+## <code>[ 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪 ]</code>
 
 `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
 
@@ -26,7 +26,7 @@
 
 </div>
 
-## <code>[ FEATURE GRID ]</code>
+## <code>[ 𝗙𝗘𝗔𝗧𝗨𝗥𝗘 𝗚𝗥𝗜𝗗 ]</code>
 
 | SYMBOL | MODULE | DETAIL |
 | :---: | --- | --- |
@@ -37,7 +37,7 @@
 | `[/]` | `OBSERVE` | Health checks, system stats, runtime logs, basic CI |
 | `[>]` | `DEPLOY` | Heroku worker, Docker/Koyeb build, VPS systemd service |
 
-## <code>[ QUICK START ]</code>
+## <code>[ 𝗤𝗨𝗜𝗖𝗞 𝗦𝗧𝗔𝗥𝗧 ]</code>
 
 ### <code>01 . INSTALL DEPENDENCIES</code>
 
@@ -72,7 +72,7 @@ $env:OWNER_ID="123456789"
 python main.py
 ```
 
-## <code>[ PROJECT MAP ]</code>
+## <code>[ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗠𝗔𝗣 ]</code>
 
 ```text
 HOSTING-BOT
@@ -98,7 +98,7 @@ HOSTING-BOT
 `-- tests/
 ```
 
-## <code>[ COMMAND DECK ]</code>
+## <code>[ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗗𝗘𝗖𝗞 ]</code>
 
 | COMMAND | ACCESS | PURPOSE |
 | --- | :---: | --- |
@@ -115,7 +115,7 @@ HOSTING-BOT
 | `/add_premium <id> [plan] [duration]` | `OWNER` | Grant premium access |
 | `/rem_premium <id>` | `OWNER` | Revoke premium access |
 
-## <code>[ CONFIG NOTES ]</code>
+## <code>[ 𝗖𝗢𝗡𝗙𝗜𝗚𝗦 𝗡𝗢𝗧𝗘𝗦 ]</code>
 
 | KEY | REQUIRED | NOTE |
 | --- | :---: | --- |
@@ -134,7 +134,7 @@ ELSE                 -> USE LOCAL SQLITE
 
 Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
 
-## <code>[ DEPLOYMENT ]</code>
+## <code>[ 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 ]</code>
 
 ### <code>HEROKU WORKER</code>
 
@@ -168,7 +168,7 @@ sudo systemctl enable --now hosting-bot
 sudo journalctl -u hosting-bot -f
 ```
 
-## <code>[ BRANDING ]</code>
+## <code>[ 𝗕𝗥𝗔𝗡𝗗𝗜𝗡𝗚 ]</code>
 
 Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
@@ -181,7 +181,7 @@ Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
 Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/ShadowedTomb)
 
-## <code>[ COPYRIGHT ]</code>
+## <code>[ 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 ]</code>
 
 <div align="center">
 
