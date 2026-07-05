@@ -37,8 +37,8 @@
 | `[/]` | `OBSERVE` | Health checks, system stats, runtime logs, basic CI |
 | `[>]` | `DEPLOY` | Heroku worker, Docker/Koyeb build, VPS systemd service |
 ---
-## <code>[ ǫᴜɪᴄᴋ sᴛᴀʀᴛ ]</code>
-
+## <code>| QUICK START |</code>
+---
 ### <code>01 . INSTALL DEPENDENCIES</code>
 
 ```bash
@@ -71,7 +71,7 @@ $env:OWNER_ID="123456789"
 ```bash
 python main.py
 ```
-
+---
 ## <code>[ ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴘ ]</code>
 
 ```text
