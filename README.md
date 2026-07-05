@@ -26,7 +26,7 @@
 
 </div>
 
-## <code>[ ғᴇᴀᴛᴜʀᴇ ɢʀɪɴᴅ ]</code>
+## <code>| FEATURE GRID |</code>
 
 | SYMBOL | MODULE | DETAIL |
 | :---: | --- | --- |
