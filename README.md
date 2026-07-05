@@ -224,8 +224,8 @@ Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/Shado
 
 <br /><br />
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://img.shields.io/badge/Tombshadowed-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=050810&color=00E5FF" alt="GitHub profile" />
+<a href="https://github.com/TombShadowed">
+  <img src="https://img.shields.io/badge/TombShadowed-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=050810&color=00E5FF" alt="GitHub profile" />
 </a>
 
 <br /><br />
