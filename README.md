@@ -1,47 +1,12 @@
-<div align="center">
+<h2 align="center">
+    ──「 ʜᴏsᴛɪɴɢ ᴍᴀɴᴀɢᴇʀ 」──
+</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=HOSTING-BOT&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=FFFFFF&color=0:050810,45:00E5FF,100:7CFFB2&animation=fadeIn&desc=TELEGRAM%20BOT%20HOSTING%20MANAGER&descAlign=50&descAlignY=62&descSize=15" alt="HOSTING-BOT banner" />
+<p align="center">
+  <img src="https://i.ibb.co/8gYGz8pF/photo-2026-07-05-08-45-19-7658962304167313424.jpg">
+</p>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=%5B+DEPLOY+BOTS+%5D+%5B+CONTROL+RUNTIME+%5D+%5B+MONITOR+SYSTEM+%5D;%5B+PYTHON+3.11%2B+%5D+%5B+SQLITE+%2F+MONGODB+%5D+%5B+SYSTEMD+READY+%5D" alt="animated project summary" />
-
-<br /><br />
-
-<code>LIGHTWEIGHT . COMMAND DRIVEN . OWNER CONTROLLED . DEPLOY READY</code>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/PYTHON-3.11+-0B1220?style=for-the-badge&labelColor=050810&color=00E5FF" alt="Python 3.11+" />
-<img src="https://img.shields.io/badge/STORAGE-SQLITE%20%7C%20MONGODB-0B1220?style=for-the-badge&labelColor=050810&color=7CFFB2" alt="SQLite or MongoDB" />
-<img src="https://img.shields.io/badge/RUNTIME-TELEGRAM-0B1220?style=for-the-badge&labelColor=050810&color=8AB4FF" alt="Telegram runtime" />
-<img src="https://img.shields.io/badge/DEPLOY-HEROKU%20%7C%20DOCKER%20%7C%20VPS-0B1220?style=for-the-badge&labelColor=050810&color=FFCA3A" alt="Deploy targets" />
-
-<br /><br />
-
-<a href="#-overview-"><code>OVERVIEW</code></a>
-<code> | </code>
-<a href="#-quick-start-"><code>QUICK START</code></a>
-<code> | </code>
-<a href="#-command-deck-"><code>COMMANDS</code></a>
-<code> | </code>
-<a href="#-deployment-"><code>DEPLOY</code></a>
-<code> | </code>
-<a href="#-copyright-"><code>COPYRIGHT</code></a>
-
-</div>
-
----
-
-```text
-                  _   _  ___  ____ _____ ___ _   _  ____       ____   ___ _____
-                 | | | |/ _ \/ ___|_   _|_ _| \ | |/ ___|     | __ ) / _ \_   _|
-                 | |_| | | | \___ \ | |  | ||  \| | |  _ _____|  _ \| | | || |
-                 |  _  | |_| |___) || |  | || |\  | |_| |_____| |_) | |_| || |
-                 |_| |_|\___/|____/ |_| |___|_| \_|\____|     |____/ \___/ |_|
-
-                              [ TELEGRAM BOT HOSTING CONTROL PANEL ]
-```
+----
 
 ## <code>[ OVERVIEW ]</code>
 
