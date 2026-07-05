@@ -8,10 +8,9 @@
 
 ----
 
-## <code>| OVERVIEW |</code>
-
+##❐ <code>| OVERVIEW |</code>
+---
 > `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
-
 ---
 
 ```text
