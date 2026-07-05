@@ -169,6 +169,24 @@ Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
 Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/ShadowedTomb)
 
+## <code>[ COPYRIGHT ]</code>
+
+<div align="center">
+
+<code>COPYRIGHT (C) 2026 YOUR-GITHUB-USERNAME . ALL RIGHTS RESERVED</code>
+
+<br /><br />
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-YOUR--GITHUB--USERNAME-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=050810&color=00E5FF" alt="GitHub profile" />
+</a>
+
+<br /><br />
+
+<sub><code>[ SOURCE CREDIT MUST BE PRESERVED WHEN SHARING OR MODIFYING THIS PROJECT ]</code></sub>
+
+</div>
+
 <div align="center">
 
 <br />
