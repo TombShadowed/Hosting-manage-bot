@@ -72,8 +72,8 @@ $env:OWNER_ID="123456789"
 python main.py
 ```
 ---
-## <code>[ ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴘ ]</code>
-
+## <code>| PROJECT MAP |</code>
+---
 ```text
 HOSTING-BOT
 |-- main.py                         [ runtime entrypoint ]
@@ -97,9 +97,9 @@ HOSTING-BOT
 |-- Procfile
 `-- tests/
 ```
-
-## <code>[ ᴄᴏᴍᴍᴀɴᴅ ᴅᴇᴄᴋ ]</code>
-
+---
+## <code>| COMMAND DECK |</code>
+---
 | COMMAND | ACCESS | PURPOSE |
 | --- | :---: | --- |
 | `/start` | `USER` | Show the welcome interface |
@@ -114,7 +114,7 @@ HOSTING-BOT
 | `/system` | `ADMIN` | Show system stats |
 | `/add_premium <id> [plan] [duration]` | `OWNER` | Grant premium access |
 | `/rem_premium <id>` | `OWNER` | Revoke premium access |
-
+---
 ## <code>[ ᴄᴏɴғɪɢs ɴᴏᴛᴇs ]</code>
 
 | KEY | REQUIRED | NOTE |
