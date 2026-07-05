@@ -131,8 +131,7 @@ HOSTING-BOT
 IF MONGO_URI EXISTS  -> USE MONGODB
 ELSE                 -> USE LOCAL SQLITE
 ```
-
-Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
+> Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
 ---
 ## <code>| DEPLOYMENT |</code>
 ---
@@ -151,7 +150,7 @@ Runtime logs are written under `BASE_DATA_DIR/logs/master-bot.log`.
 
 ### <code>DOCKER / KOYEB</code>
 
-Koyeb can deploy this project through the included `Dockerfile`. For local Docker usage:
+> Koyeb can deploy this project through the included `Dockerfile`. For local Docker usage:
 
 ```bash
 docker-compose up -d --build
@@ -159,7 +158,7 @@ docker-compose up -d --build
 
 ### <code>VPS / SYSTEMD</code>
 
-Install Python 3.11, create a virtual environment, install dependencies, then adjust `deploy/systemd/hosting-bot.service` for your server paths and environment values.
+> Install Python 3.11, create a virtual environment, install dependencies, then adjust `deploy/systemd/hosting-bot.service` for your server paths and environment values.
 
 ```bash
 sudo cp deploy/systemd/hosting-bot.service /etc/systemd/system/hosting-bot.service
@@ -170,7 +169,7 @@ sudo journalctl -u hosting-bot -f
 ---
 ## <code>| BRANDING |</code>
 ---
-Displayed links and text can be customized in `.env` and `cmds/start.py`.
+> Displayed links and text can be customized in `.env` and `cmds/start.py`.
 
 ```text
 [ EDIT .ENV ]          OWNER IDS . CHANNEL LINKS . RUNTIME VALUES
