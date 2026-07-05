@@ -8,7 +8,7 @@
 
 ----
 
-## ❐ <code>| OVERVIEW |</code>
+## <code>| OVERVIEW |</code>
 ---
 > `HOSTING-BOT` is a Telegram bot hosting manager that helps you deploy, control, and monitor Telegram bots from a clean command interface.
 ---
@@ -27,7 +27,7 @@
 </div>
 
 ## <code>| FEATURE GRID |</code>
-
+---
 | SYMBOL | MODULE | DETAIL |
 | :---: | --- | --- |
 | `[+]` | `COMMAND UI` | Telegram-first control surface with clean bot commands |
@@ -36,7 +36,7 @@
 | `[~]` | `ACCESS` | Owner/admin controls, premium users, redeem flow, rate limits |
 | `[/]` | `OBSERVE` | Health checks, system stats, runtime logs, basic CI |
 | `[>]` | `DEPLOY` | Heroku worker, Docker/Koyeb build, VPS systemd service |
-
+---
 ## <code>[ ǫᴜɪᴄᴋ sᴛᴀʀᴛ ]</code>
 
 ### <code>01 . INSTALL DEPENDENCIES</code>
