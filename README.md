@@ -177,15 +177,22 @@ Displayed links and text can be customized in `.env` and `cmds/start.py`.
 [ EDIT cmds/start.py ] WELCOME TEXT . BUTTONS . START SCREEN
 ```
 
+----
 ## <code>[ CREDITS ]</code>
 
-Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/ShadowedTomb)
+<p align="center">
+  <img src="https://i.ibb.co/rK3Fwptg/photo-2026-07-05-09-09-48-7658968609179303968.jpg">
+</p>
+
+----
+
+Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://telegram.me/ShadowedTomb)
 
 ## <code>[ 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 ]</code>
 
 <div align="center">
 
-<code>COPYRIGHT (C) 2026 TombShadowed . ALL RIGHTS RESERVED</code>
+<code>COPYRIGHT (C) 2026 Shadowed-Tomb . ALL RIGHTS RESERVED</code>
 
 <br /><br />
 
@@ -200,14 +207,6 @@ Made and maintained by the Telegram channel: [`SHADOWEDTOMB`](https://t.me/Shado
 </div>
 
 <div align="center">
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=7CFFB2&center=true&vCenter=true&width=760&lines=%5B+SYSTEM+ONLINE+%5D;%5B+DEPLOY+THE+BOT+%5D;%5B+CONTROL+THE+RUNTIME+%5D;%5B+WATCH+THE+LOGS+%5D" alt="animated footer" />
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7CFFB2,45:00E5FF,100:050810" alt="footer wave" />
 
 <br />
 
